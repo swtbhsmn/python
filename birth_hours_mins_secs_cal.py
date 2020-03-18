@@ -13,6 +13,6 @@ In terms of #minutes and #seconds is {} &{}.\n\
 According to Julian year (1 year = 365.25 days). It is used for astronomical calculations.".format(hours,minutes,seconds))
 
 #==================Output========================
-#I'm Swetabh Suman. I have spend approx 201618.0 hours!.
-#In terms of #minutes and #seconds is 12097080.0 & 725824800.0.
+#I'm Swetabh Suman. I have spend approx 192852.0 hours!.
+#In terms of #minutes and #seconds is 11571120.0 &694267200.0.
 #According to Julian year (1 year = 365.25 days). It is used for astronomical calculations.
